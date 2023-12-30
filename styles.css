@@ -11,9 +11,9 @@ html{
     width: 368px;
     background-color: #FFFFFF;
     margin: 164px auto 0;
-    border-radius: 15px;
+    border-radius: 10px;
     box-shadow: 0px 20px 60px 0px rgba(17, 23, 41, 0.07);
-    
+    border: 1px solid white;
 }
 #imagen_fondo{
     width: 336px;
