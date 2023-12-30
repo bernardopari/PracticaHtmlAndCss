@@ -15,7 +15,7 @@
 #imagen_fondo{
     width: 336px;
     height: 152px;
-    background-image: url('/img/cactus_img.jpg');
+    background-image: url('/img/cactus.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
